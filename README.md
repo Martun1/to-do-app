@@ -1,37 +1,38 @@
 
 ---
 
-# ✅ **4. To‑Do App (Python CLI) — README.md**
+# 📝 **TO‑DO APP — README.md (подобрен)**
 
-```markdown
-# 📝 To-Do App (CLI)
+```md
+# 📝 To‑Do App (CLI)
 
-A simple command-line to-do list manager built in Python.
+A lightweight and fast command‑line to‑do list manager built in Python.  
+Perfect for practicing file handling, CLI design, and simple data persistence.
 
 ---
 
-## 🔧 Features
+## ✨ Features
 
-- Add tasks  
-- List tasks  
-- Remove tasks  
-- Persistent file storage  
+- ➕ Add tasks  
+- 📋 List tasks  
+- ❌ Remove tasks  
+- 💾 Persistent file storage  
 
 ---
 
 ## 🛠 Technologies Used
 
-- Python  
-- File handling  
+- **Python 3**
+- File handling (read/write)
 
 ---
 
 ## 📁 Project Structure
 
-| File | Description |
-|------|-------------|
-| `todo.py` | Main logic |
-| `tasks.txt` | Saved tasks |
+| File        | Description        |
+|-------------|--------------------|
+| `todo.py`   | Main application   |
+| `tasks.txt` | Stored task list   |
 
 ---
 
